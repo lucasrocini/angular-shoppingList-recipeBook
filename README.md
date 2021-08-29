@@ -1,5 +1,7 @@
 # AngularShoppingListRecipeBook
 
+## Project for Training Angular as a part of my Backend Development Skills Tollset
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
 ## Development server
